@@ -1,0 +1,8 @@
+C:\Cris\Aplicativos\unitTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Cris\Aplicativos\unitTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Cris\Aplicativos\unitTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Cris\Aplicativos\unitTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Cris\Aplicativos\unitTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Cris\Aplicativos\unitTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Cris\Aplicativos\unitTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Cris\Aplicativos\unitTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
